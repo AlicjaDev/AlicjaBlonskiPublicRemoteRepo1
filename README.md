@@ -5,4 +5,3 @@
 
 This is the added collaboration - Tanya
 
-Conflict- This is our conflict line Alicja and Tanya. 
